@@ -1,5 +1,5 @@
 DI/1 is a simple convention-based dependency injection (inversion of control) 
-framework. DI/1 is part of the [FW/1 family of components](https://github.com/framework-one/fw1).
+framework. DI/1 is part of the [Ziggy MVC family of components](https://github.com/ZiggyMVC/ZiggyMVC).
 All development work occurs in that repo. This repo is provided purely as a convenience for users
 who want just DI/1 as a standalone component.
 
@@ -23,4 +23,4 @@ folder name, e.g.,
 Folder names may be singular or plural. DI/1 assumes that if a folder name ends in
 "s" it can remove that to get the singular name.
 
-See the [DI/1 documentation](https://framework-one.github.io/documentation/4.3/using-di-one/) for more details.
+See the [DI/1 documentation](https://ziggymvc.github.io/documentation/using-di-one/) for more details.
